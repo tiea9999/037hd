@@ -1,0 +1,48 @@
+{
+  "name": "037hddmovie",
+  "author": "2/6/2569",
+  "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+  "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/index.json",
+  "groups": [
+    {
+      "name": "หนังใหม่ชนโรง",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังใหม่ชนโรง.json"
+    },
+    {
+      "name": "หนังใหม่ 2026",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังใหม่_2026.json"
+    },
+    {
+      "name": "หนังใหม่ 2025",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังใหม่_2025.json"
+    },
+    {
+      "name": "หนังไทย",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังไทย.json"
+    },
+    {
+      "name": "หนังเอเชีย",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังเอเชีย.json"
+    },
+    {
+      "name": "หนังฝรั่ง",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังฝรั่ง.json"
+    },
+    {
+      "name": "Netflix",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/Netflix.json"
+    },
+    {
+      "name": "หนังการ์ตูน",
+      "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/หนังการ์ตูน.json"
+    }
+  ]
+}
