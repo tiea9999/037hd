@@ -7,10 +7,7 @@
       {
         "name": "M3U8",
         "url": "https://master.streamhls.com/hls/c290d3479d52df37608e2f519fa4d6a8/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://player.stream1689.com/p2p/c290d3479d52df37608e2f519fa4d6a8"
+
       }
     ]
   },
