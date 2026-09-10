@@ -1,4 +1,8 @@
 [
+
+
+
+  
   {
     "title": "Raja Shivaji (2026) ศิวาจี มหาราช",
     "group": "หนังใหม่ 2026",
@@ -11,7 +15,19 @@
       }
     ]
   },
-
+  {
+    "title": "The Breadwinner (2026) พ่อบ้านสายแบก",
+    "poster": "https://037hddd.com/api/poster-thumb?path=%2Fimages%2Fst_1788944325328_1c5d44e0.webp&w=280",
+    "category": "หนังใหม่2026",
+    "language": "ซับไทย",
+      "rating": 0,
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://master.steamhls88.com/hlsr2/2b4a0c3b416f5b36dd80fd26e17f6f7a/master.m3u8"
+      }
+    ]
+  },
 
   
   {
