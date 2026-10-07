@@ -119,7 +119,114 @@
       }
     ]
   },
-
+  {
+    "title": "Dark Hollow (2026) ",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/10/fMbhJKv5bvVnh9HUwm1mTKmZdeZ-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/Va-crBb_kp4RE/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Redline Fury (2026) ",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/10/ythRDmlwOIa4QtWotEKB34HEbBk-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/4-jWPt_4bzZoo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Runner (2026) พี่บึ้ก…โคตรคน ชนนรก ",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/10/v77D3DOnimA2UVcKhgNDp2hnt2Y-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/k1-WbNOk_IcMc/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Furious Pertaruhan Maruah (2026) สังเวียนเดือดเดิมพันศักดิ์ศรี ",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/10/vbWGR2d7tojUgXyTRExB8UXDV2u-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/6_njRZz3-rJ4E/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Fix (2026)",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/10/9iSkee8DPpwBQI3GhXSTGZJKNYM-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/sXe_NulRf-0Sv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Heart of the Beast (2026) หัวใจผจญไพร",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/09/tygnfQq5VpUmpVYQ2h1PwshKKMq-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/EC-60S_GRS0aG/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Airy in Busan (2026) อีแหล่ แอรี่ เกาหลี",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/09/hw0fPqJCfDgSs9Nqzp2AVbsoR3u-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/n1R_wwgcZp-mA/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Don t Be Shy (2026) อย่ากลัวที่จะโต",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/09/lBeDq7KmZaQNnnIXgExCAmfLMqT-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/A7zEuv-Qgs_0Z/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Unabomber (2026) ยูนาบอมเมอร์",
+    "logo": "https://9.9nung.com/wp-content/uploads/2026/09/39aMkR8Y5vhCG9dTkjiqRl8AVqp-185x278.jpg",
+    "group": "หนังใหม่2026",
+    "language": "พากย์ไทย",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://vdohls.com/WB1jIJ9u_J-hk/playlist.m3u8"
+      }
+    ]
+  },
   
   {
     "title": "Raja Shivaji (2026) ศิวาจี มหาราช",
