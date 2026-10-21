@@ -1,13 +1,97 @@
 [
   {
-    "title": "Doing Life ชั่วชีวิต จากไทเลอร์ เพอร์รี (2026)",
-    "year": 2026,
-    "language": "ซับไทย",
-    "poster": "https://191movie.com/wp-content/uploads/2026/10/rym25bi9.jpg",
+    "title": "The Moon Warriors คนบินเทวดา (1992)",
+    "year": 1992,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/5keaiesj.jpg",
     "servers": [
       {
         "name": "Main",
-        "url": "https://ezycdn.stream/playlist-997tj9vh-FHD.m3u8"
+        "url": "https://ezycdn.stream/playlist-k4b8of46-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Magnificent Wanderers 4 เจ้ายุทธเจ๋อ (1977)",
+    "year": 1977,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/c8wu6i0r.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-9bgn8cg5-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Five Venoms จอมโหด 5 อสรพิษ (1978)",
+    "year": 1978,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/msnfm5y4.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-997sk4uf-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Taking of Pelham 123 ปล้นนรก รถด่วนขบวน 123 (2009)",
+    "year": 2009,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/2vvaeq7r.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-997jhcft-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Did You Hear About The Morgans ไฮโซมอแกน โกบ้านนา (2009)",
+    "year": 2009,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/boowzslp.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-997i99oe-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sweetheart เกาะร้างซ่อนสยอง (2019)",
+    "year": 2019,
+    "language": "ซับไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/8git9iim.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-997lt31o-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kazaam ยักษ์มหัศจรรย์หยุดโลก (1996)",
+    "year": 1996,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/4ifq5n6l.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-997gg3dm-FHD.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Arabian Adventure ศึกมหัศจรรย์ (1979",
+    "year": 1979,
+    "language": "พากย์ไทย",
+    "poster": "https://191movie.com/wp-content/uploads/2026/10/kt91aoe8.jpg",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://ezycdn.stream/playlist-997d0mqk-FHD.m3u8"
       }
     ]
   },
