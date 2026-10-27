@@ -1,5 +1,18 @@
 [
   {
+    "title": "Mutiny (2026)",
+    "year": 2026,
+    "language": "พากย์ไทย",
+    "poster": "https://123hdi.com/assets/posters/mutiny.webp",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://main.24playerhd.com/m3u8/805b028b07c5f6c149537cb4/805b028b07c5f6c149537cb4168.m3u8"
+      }
+    ]
+  },
+  
+  {
     "title": "Hannibal (2001) ฮันนิบาล อำมหิตลั่นโลก",
     "year": 2001,
     "language": "พากย์ไทย",
